@@ -19,6 +19,11 @@
 
 ## Former lab member Github repositories
 
-- [Jorrit Montijn](https://github.com/jorritmontijn)
+- [Leonie Cazemier](https://github.com/leoniecazemier)
 
 - [Mike X Cohen](https://github.com/mikexcohen)
+
+- [Jorrit Montijn](https://github.com/jorritmontijn)
+
+
+  
