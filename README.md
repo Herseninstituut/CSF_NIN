@@ -19,11 +19,18 @@
 
 ## Former lab member Github repositories
 
+- [Mehran Ahmadlou](https://github.com/mehranahmadlou)
+
 - [Leonie Cazemier](https://github.com/leoniecazemier)
 
 - [Mike X Cohen](https://github.com/mikexcohen)
 
+- [Simon Lansbergen](https://github.com/Lansbergen) 
+
 - [Jorrit Montijn](https://github.com/jorritmontijn)
 
+- [Zhiting Ren](https://github.com/ZhitingRen)
+
+- [Azadeh Tafreshiha](https://github.com/AzadehTa)
 
   
